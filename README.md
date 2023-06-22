@@ -22,6 +22,10 @@ I really like programming, i take it as a small hobby, but i can do great things
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
 </p>
 
+> By [`VeroMoreno`]
+
+[`VeroMoreno`]: https://github.com/Phineas/lanyard](https://github.com/VeroMoreno
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/425096508212248576)](https://discord.com/users/425096508212248576)
 > By [`Lanyard`]
  
