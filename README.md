@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Astraa 👋
 ## Currently studying
 
 - Web and database development 📚
