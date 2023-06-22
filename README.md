@@ -26,7 +26,7 @@ I really like programming, i take it as a small hobby, but i can do great things
 
 [`VeroMoreno`]: https://github.com/Phineas/lanyard](https://github.com/VeroMoreno
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/425096508212248576?idleMessage=:Nothing_for_now)](https://discord.com/users/425096508212248576)
+[![Discord Presence](https://lanyard.cnrad.dev/api/425096508212248576?idleMessage=Nothing_for_now_:/)](https://discord.com/users/425096508212248576)
 > By [`Lanyard`]
  
 [`Lanyard`]: https://github.com/Phineas/lanyard
