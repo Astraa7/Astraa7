@@ -10,4 +10,5 @@ I really like programming, i take it as a small hobby, but i can do great things
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/425096508212248576)](https://discord.com/users/425096508212248576)
 > By [`Lanyard`]
+ 
 [`Lanyard`]: https://github.com/Phineas/lanyard
