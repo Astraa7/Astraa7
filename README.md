@@ -24,4 +24,4 @@ I really like programming, i take it as a small hobby, but i can do great things
 
 > Repository of [`VeroMoreno`]
 
-[`VeroMoreno`]: https://github.com/Phineas/lanyard](https://github.com/VeroMoreno
+[`VeroMoreno`]: (https://github.com/VeroMoreno
